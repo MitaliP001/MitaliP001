@@ -8,10 +8,29 @@
 - 💼 Always eager to learn and collaborate on exciting projects.  
 
 ## Technologies I Work With
-![HTML](https://img.shields.io/badge/Code-HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/Style-CSS-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python)
+
+### Languages
+![C](https://img.shields.io/badge/Code-C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat&logo=cplusplus)
+![Go](https://img.shields.io/badge/Code-Golang-green?style=flat&logo=go)
+![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
+
+### Databases & DevOps
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey?style=flat&logo=sqlite)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react)
+![Django](https://img.shields.io/badge/Framework-Django-green?style=flat&logo=django)
+![Express](https://img.shields.io/badge/Framework-Express-grey?style=flat&logo=express)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple?style=flat&logo=bootstrap)
+
+### Developer Tools
+![Git](https://img.shields.io/badge/Tool-Git-orange?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/Tool-GitHub-black?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/Tool-Postman-orange?style=flat&logo=postman)
 
 ## Let's Connect!
 📧 **Email**: [mitalilpurohit@gmail.com](mailto:mitalilpurohit@gmail.com)  
