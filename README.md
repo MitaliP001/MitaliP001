@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mitali Purohit! 👋
 
-<!--
-**MitaliP001/MitaliP001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mitali%20Purohit-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mitali-rajpurohit01/)
+[![Email](https://img.shields.io/badge/Email-mitalilpurohit%40gmail.com-red?style=flat&logo=gmail)](mailto:mitalilpurohit@gmail.com)
 
-Here are some ideas to get you started:
+## About Me
+- 🌟 Passionate about technology and innovation.  
+- 💼 Always eager to learn and collaborate on exciting projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Work With
+![HTML](https://img.shields.io/badge/Code-HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/Style-CSS-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python)
+
+## Let's Connect!
+📧 **Email**: [mitalilpurohit@gmail.com](mailto:mitalilpurohit@gmail.com)  
+🌐 **LinkedIn**: [Mitali Purohit](https://www.linkedin.com/in/mitali-rajpurohit01/)  
