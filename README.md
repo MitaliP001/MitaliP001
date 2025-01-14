@@ -1,7 +1,13 @@
 # Hi, I'm Mitali Purohit! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mitali%20Purohit-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mitali-rajpurohit01/)  
-[![Email](https://img.shields.io/badge/Email-mitalilpurohit%40gmail.com-red?style=flat&logo=gmail)](mailto:mitalilpurohit@gmail.com)
+<div>
+  <a href="https://www.linkedin.com/in/mitali-rajpurohit01/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mitali%20Purohit-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:mitalilpurohit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mitalilpurohit%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+</div>
 
 ## About Me  
 - 🌟 Passionate about technology and innovation.  
