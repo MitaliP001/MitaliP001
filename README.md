@@ -1,22 +1,23 @@
 # Hi, I'm Mitali Purohit! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mitali%20Purohit-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mitali-rajpurohit01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mitali%20Purohit-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mitali-rajpurohit01/)  
 [![Email](https://img.shields.io/badge/Email-mitalilpurohit%40gmail.com-red?style=flat&logo=gmail)](mailto:mitalilpurohit@gmail.com)
 
-## About Me
+## About Me  
 - 🌟 Passionate about technology and innovation.  
 - 💼 Always eager to learn and collaborate on exciting projects.  
 
 ## Technologies I Work With
 
 ### Languages
-![C](https://img.shields.io/badge/Code-C-blue?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat&logo=cplusplus)  
-![Go](https://img.shields.io/badge/Code-Golang-green?style=flat&logo=go)  
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)  
-![PHP](https://img.shields.io/badge/Code-PHP-purple?style=flat&logo=php)
-
+<div>
+  <img src="https://img.shields.io/badge/Code-C-blue?style=flat&logo=c" />
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Code-Golang-green?style=flat&logo=go" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-PHP-purple?style=flat&logo=php" />
+</div>
 
 ### Databases & DevOps
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb)
@@ -36,4 +37,4 @@
 
 ## Let's Connect!
 📧 **Email**: [mitalilpurohit@gmail.com](mailto:mitalilpurohit@gmail.com)  
-🌐 **LinkedIn**: [Mitali Purohit](https://www.linkedin.com/in/mitali-rajpurohit01/)  
+🌐 **LinkedIn**: [Mitali Purohit](https://www.linkedin.com/in/mitali-rajpurohit01/)
