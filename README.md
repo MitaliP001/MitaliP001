@@ -10,11 +10,13 @@
 ## Technologies I Work With
 
 ### Languages
-![C](https://img.shields.io/badge/Code-C-blue?style=flat&logo=c)
-![C++](https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat&logo=cplusplus)
-![Go](https://img.shields.io/badge/Code-Golang-green?style=flat&logo=go)
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/Code-C-blue?style=flat&logo=c)  
+![C++](https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat&logo=cplusplus)  
+![Go](https://img.shields.io/badge/Code-Golang-green?style=flat&logo=go)  
+![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)  
+![PHP](https://img.shields.io/badge/Code-PHP-purple?style=flat&logo=php)
+
 
 ### Databases & DevOps
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb)
