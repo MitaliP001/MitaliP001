@@ -1,4 +1,3 @@
-
 # Hi, I'm Anoush Akhavan! 👋
 
 <div>
@@ -11,7 +10,7 @@
 </div>
 
 ## 🚀 About Me  
-A systems-minded **Full Stack Developer** passionate about building scalable, privacy-respecting tech — from cloud systems to edge AI companions.
+A systems-minded **Full Stack Developer** passionate about building scalable, privacy-respecting tech — from cloud systems to performance-tuned platforms.
 
 - 🔧 **Ex-Lead Full Stack Engineer** @ ONC Media  
 - 🧠 Strong believer in knowledge sharing, mentoring, and creating a culture of clean code  
@@ -47,27 +46,15 @@ A systems-minded **Full Stack Developer** passionate about building scalable, pr
 ![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 
----
-
-## 🌐 IoT & Edge AI
-
-> Creating secure, intelligent, and offline-first devices.
-
-### 🧠 My DIY Voice AI Companion Project
-
-> Imagine having a **pocket AI assistant** that’s completely offline — portable, secure, and always ready.
-
-Built using:
-
-- 🐧 **Raspberry Pi** running Linux  
-- 🗣️ **Speech-to-Text** via Whisper  
-- 🎙️ **TTS** with Bark / pyttsx3  
-- 🔄 **Ollama** for local LLM inference  
-- 🎛️ Audio stack: `pyaudio`, `sounddevice`, `wake-word detection`, live loops
-
-🔋 **Powered by** a 3.7v 1.8Ah battery pack housed in a modified vape pod — where **innovation meets practicality** 😄
-
-> *“A private assistant in your pocket — no cloud required.”*
+### 🗣️ Voice AI / Embedded AI Tools  
+![Raspberry Pi](https://img.shields.io/badge/Hardware-Raspberry%20Pi-brightgreen?style=flat&logo=raspberrypi)
+![Linux](https://img.shields.io/badge/OS-Linux-lightgrey?style=flat&logo=linux)
+![Whisper](https://img.shields.io/badge/STT-Whisper-blueviolet)
+![Bark](https://img.shields.io/badge/TTS-Bark-orange)
+![pyttsx3](https://img.shields.io/badge/TTS-pyttsx3-9cf)
+![Ollama](https://img.shields.io/badge/LLM-Ollama-informational)
+![pyaudio](https://img.shields.io/badge/Audio-pyaudio-blue)
+![sounddevice](https://img.shields.io/badge/Audio-sounddevice-green)
 
 ---
 
