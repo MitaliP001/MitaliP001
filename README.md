@@ -9,13 +9,16 @@
   </a>
 </div>
 
-## 🚀 About Me  
-A systems-minded **Full Stack Developer** passionate about building scalable, privacy-respecting tech — from cloud systems to performance-tuned platforms.
+## 💡 About Me
 
-- 🔧 **Ex-Lead Full Stack Engineer** @ ONC Media  
-- 🧠 Strong believer in knowledge sharing, mentoring, and creating a culture of clean code  
-- ⚙️ Skilled in **system design**, **performance engineering**, and **DevOps**  
-- 🧩 Collaborator across cross-functional teams with a focus on documentation and reliability  
+I’m a passionate **Full Stack Developer** dedicated to building scalable, maintainable, and secure software. With experience spanning frontend, backend, and infrastructure, I aim to deliver high-quality solutions that solve real-world problems.
+
+- Advocate for **clean code**, **test-driven development**, and **collaborative teamwork**.  
+- Skilled in designing systems that balance **performance**, **reliability**, and **user experience**.  
+- Committed to continuous learning and mentoring to foster growth in teams.  
+- Strong believer in **documentation** and **automation** to improve development workflows.  
+
+> “Writing code is just one part — building sustainable systems and empowering teams is what truly drives progress.”
 
 ---
 
@@ -55,15 +58,6 @@ A systems-minded **Full Stack Developer** passionate about building scalable, pr
 ![Ollama](https://img.shields.io/badge/LLM-Ollama-informational)
 ![pyaudio](https://img.shields.io/badge/Audio-pyaudio-blue)
 ![sounddevice](https://img.shields.io/badge/Audio-sounddevice-green)
-
----
-
-## 💡 Philosophy
-
-Building resilient systems that prioritize privacy, scalability, and performance.  
-From embedded devices to full-stack cloud applications — I value clean architecture, offline-first thinking, and collaborative engineering.
-
-> "Simple is scalable. Private is powerful. Documented is repeatable."
 
 ---
 
