@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Anoush%20Akhavan-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:abgeekmail@proton.me">
-    <img src="https://img.shields.io/badge/Email-abgeekmail%40proton.me-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" />
   </a>
 </div>
 
@@ -61,6 +61,8 @@ I’m a passionate **Full Stack Developer** dedicated to building scalable, main
 
 ---
 
-## 📬 Let's Connect!
-- 💌 **Email**: [abgeekmail@proton.me](mailto:abgeekmail@proton.me)  
-- 💼 **LinkedIn**: [linkedin.com/in/anoush-a-244a17279](https://www.linkedin.com/in/anoush-a-244a17279/)  
+## 📫 Let’s Connect!
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/anoush-a-244a17279/) or send me an email by clicking [here](mailto:abgeekmail@proton.me).  
+I’m always open to discussing new projects, ideas, or opportunities to collaborate.
+
