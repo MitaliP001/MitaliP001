@@ -58,11 +58,15 @@ A systems-minded **Full Stack Developer** passionate about building scalable, pr
 
 ---
 
-## 📬 Let's Connect!
-- 💌 **Email**: [abgeekmail@proton.me](mailto:abgeekmail@proton.me)  
-- 💼 **LinkedIn**: [linkedin.com/in/anoush-a-244a17279](https://www.linkedin.com/in/anoush-a-244a17279/)  
+## 💡 Philosophy
+
+Building resilient systems that prioritize privacy, scalability, and performance.  
+From embedded devices to full-stack cloud applications — I value clean architecture, offline-first thinking, and collaborative engineering.
+
+> "Simple is scalable. Private is powerful. Documented is repeatable."
 
 ---
 
-> ⚡ *Passionate about building resilient systems and privacy-conscious tech — from edge devices to global platforms.*  
-Hashtag everything: #AI #IoT #Innovation #OfflineFirst #TechCompanion #DevOps #SystemDesign
+## 📬 Let's Connect!
+- 💌 **Email**: [abgeekmail@proton.me](mailto:abgeekmail@proton.me)  
+- 💼 **LinkedIn**: [linkedin.com/in/anoush-a-244a17279](https://www.linkedin.com/in/anoush-a-244a17279/)  
